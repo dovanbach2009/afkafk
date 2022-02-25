@@ -1,0 +1,6 @@
+{
+	"ip":"pecraftserver.aternos.me",
+	"port": "18256",
+	"name": "afkbot",
+	"auto-night-skip":"false"
+}
